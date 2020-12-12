@@ -7,9 +7,9 @@ MONGO_URI=mongodb-url
 PORT=4000
 BACKEND_URL=localhost:4000
 
-GCUSER=
+GCUSER=gmailuseremail
 GCID=google-client-id-for-oauth
 GCSECRET=google-client-secret-for-oauth
 
-REFRESH_TOKEN=your gmail refresh token
-ACCESS_TOKEN=your gmail access token
+REFRESH_TOKEN=your gmail-refresh-token
+ACCESS_TOKEN=your gmail-access-token
