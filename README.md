@@ -1,6 +1,8 @@
 # url_shortner
 URL shortner api in Node.js with email verification
 
+### This repo contains the code for El-Professsor webinar project
+
 add a .env with following variable
 
 MONGO_URI=mongodb-url
